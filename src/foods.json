@@ -4,12 +4,14 @@
     "calories": 400,
     "image": "https://i.imgur.com/eTmWoAN.png",
     "servings": 1
+    
   },
   {
     "name": "Salad",
     "calories": 150,
     "image": "https://i.imgur.com/DupGBz5.jpg",
     "servings": 1
+    
   },
   {
     "name": "Sweet Potato",
